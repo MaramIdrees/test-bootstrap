@@ -6,8 +6,12 @@ body{
 .card-img-top{
     height: 200px;
 }
+.teacher{
+    background-color: rgba(0, 0, 0, 0.368);
+    border-radius: 5px;
+}
 .plan{
-    background: url("./../img/image-7-e1659730015857.png");
+    background: url("./../img/image-7-e1659730015857.png") fixed;
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
