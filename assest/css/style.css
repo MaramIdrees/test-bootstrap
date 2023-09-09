@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.card-img-top{
+    height: 200px;
+}
+.plan{
+    background: url("./../img/image-7-e1659730015857.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.text-center {
+    margin-top: 20px;
+}
